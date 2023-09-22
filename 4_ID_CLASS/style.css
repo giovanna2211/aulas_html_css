@@ -1,3 +1,11 @@
+#titulo-id{
+    color: purple;
+}
+
+.cor-amarela{
+    color: yellow;
+}
+
 h2{
     font-family: Arial, Helvetica, sans-serif;
     color: tomato;
@@ -14,4 +22,13 @@ h2{
 
 .fundo-verde{
     background-color: #0f0;
+}
+.fonte-grande{
+    font-size: 50px;
+}
+
+#titulo-principal{
+    background: black;
+    color: white;
+    text-align: center;
 }
